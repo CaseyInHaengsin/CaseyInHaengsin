@@ -23,6 +23,7 @@ end
 
 ### Frontend
 
+![LiveView](https://img.shields.io/badge/LiveView-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +34,6 @@ end
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
-![LiveView](https://img.shields.io/badge/LiveView-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![OTP](https://img.shields.io/badge/OTP-4B275F?style=for-the-badge&logo=erlang&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
